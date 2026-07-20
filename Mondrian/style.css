@@ -5,6 +5,7 @@
     gap: 10 rem; /*this adds 10px of space between all rows and columns */
     padding: 10 rem;
     min-height: 100vh; /*this makes the container take up the full height of the viewport */
+    grid-gap: 10 px;
 }
 
 .item{
