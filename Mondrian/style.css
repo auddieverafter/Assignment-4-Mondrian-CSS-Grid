@@ -1,8 +1,11 @@
 .container{
     background-color: yellow;
     display: grid;
-    grid-template-columns: auto auto auto auto; /*this creates 4 columns of equal width */
-    grid-gap: 10 rem; /*this adds 10px of space between all rows and columns */
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr); /*this creates 3 rows of equal height */
+    gap: 10 rem; /*this adds 10px of space between all rows and columns */
+    padding: 10 rem;
+    min-height: 100vh; /*this makes the container take up the full height of the viewport */
 }
 
 .item{
