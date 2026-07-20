@@ -2,14 +2,14 @@
     background-color: yellow;
     display: grid;
     grid-template-columns: auto auto auto auto; /*this creates 4 columns of equal width */
-    grid-gap: 10 rem; /*this adds 10px of space between all rows and columns */
+    grid-gap: 10px; /*this adds 10px of space between all rows and columns */
 }
 
 .item{
     background-color: teal;
     color: yellow;
-    font-size: 30 rem;
-    padding: 10 rem;
+    font-size: 30px;
+    padding: 10px;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
 }
