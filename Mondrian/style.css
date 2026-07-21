@@ -1,5 +1,5 @@
 .container {
-    background-color: yellow;
+    background-color: white;
     display: grid;
     grid-template-columns: auto auto auto auto;
     grid-gap: 10px;
@@ -7,8 +7,8 @@
 }
 
 .item {
-    background-color: teal;
-    color:yellow;
+    background-color:seashell;
+    color:navajowhite;
     font-size: 30px;
     padding: 10px;
     text-align: center;
@@ -16,13 +16,19 @@
 }
 
 .potato1{
+    background-color: skyblue;
     grid-column-start: 1;
     grid-column-end: 3;
 }
 
 .potato6{
+    background-color:lemonchiffon;
     grid-row-start: 2;
     grid-row-end: 4;
     grid-column-start: 3;
     grid-column-end: 4;
+}
+
+.potato8{
+    background-color:plum
 }
