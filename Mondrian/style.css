@@ -9,6 +9,9 @@
 .item {
     background-color:white;
     padding: 10px;
+    color: transparent;
+    font-size: 0;
+    line-height: 0;
 }
 
 .potato1{
