@@ -20,6 +20,14 @@
     grid-column-end: 3;
 }
 
+.potato3{
+    background-color:rgb(188, 245, 171);  
+}   
+
+.potato5{
+    background-color:rgb(98, 75, 52);
+}
+
 .potato6{
     background-color:lemonchiffon;
     grid-row-start: 2;
@@ -37,6 +45,6 @@
 }
 
 .potato10{
-    background-color:rgb(128, 240, 206);
+    background-color:rgb(206, 255, 240);
 }
 
