@@ -36,14 +36,11 @@
     grid-column-end: 4;
 }
 
-.PianoKeys{
-  width: 300px;
-  height: 200px;
-}
-
-.pianokeys { 
+.pianokeys{ 
   background-image: url("https://i.pinimg.com/736x/16/ca/bb/16cabbd6298861d5ffc7ca85add01244.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+width: 300px;
+  height: 200px;
 }
