@@ -44,7 +44,20 @@
     grid-column-end: 4;
 }
 
+.potato9 {
+    background-color:rgb(143, 198, 215);  
+} 
+ 
 .potato10 {
     background-color:rgb(206, 255, 240);
 }
+
+.potato11 {
+    background-color:rgb(250, 215, 246);
+}
+
+.potato12 {
+    background-color:rgb(255, 255, 234);
+}
+
 
