@@ -1,5 +1,5 @@
 .container {
-    background-color:black;
+    background-color:rgb(237, 222, 202);
     display: grid;
     grid-template-columns: auto auto auto auto;
     grid-gap: 10px;
@@ -15,7 +15,7 @@
 }
 
 .potato1{
-    background-color: skyblue;
+    background-color: rgb(210, 234, 255);
     grid-column-start: 1;
     grid-column-end: 3;
 }
@@ -29,36 +29,14 @@
 }
 
 .potato8{
-    background-color:plum;
+    background-color:rgb(221, 160, 182);
     grid-row-start: 1;
     grid-row-end: 2;
     grid-column-start: 3;
     grid-column-end: 4;
 }
 
-.pianokeys{ 
-  background-image: url("https://i.pinimg.com/736x/16/ca/bb/16cabbd6298861d5ffc7ca85add01244.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  width: 300px;
-  height: 200px;
-  grid-row-start: 4;
-  grid-row-end: 6;
-  grid-column-start: 3;
-  grid-column-end: 5;
-}
-
-.layeredcake{
-    background-image: url("https://i.pinimg.com/1200x/7b/3e/1c/7b3e1c893fba25d8b5ccbe9ad6db43e1.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    width: 300px;
-    height: 200px;
-    grid-row-start: 4;
-    grid-row-end: 5;
-    grid-column-start: 1;
-    grid-column-end: 2;
+.potato10{
+    background-color:rgb(128, 240, 206);
 }
 
