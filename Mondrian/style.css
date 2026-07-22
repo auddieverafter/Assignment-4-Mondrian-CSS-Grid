@@ -44,7 +44,7 @@
   width: 300px;
   height: 200px;
   grid-row-start: 4;
-  grid-row-end: 6;
+  grid-row-end: 5;
   grid-column-start: 3;
   grid-column-end: 5;
 }
