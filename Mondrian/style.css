@@ -14,21 +14,21 @@
     line-height: 0;
 }
 
-.potato1{
+.potato1 {
     background-color: rgb(210, 234, 255);
     grid-column-start: 1;
     grid-column-end: 3;
 }
 
-.potato3{
+.potato3 {
     background-color:rgb(188, 245, 171);  
 }   
 
-.potato5{
+.potato5 {
     background-color:rgb(98, 75, 52);
 }
 
-.potato6{
+.potato6 {
     background-color:lemonchiffon;
     grid-row-start: 2;
     grid-row-end: 4;
@@ -36,7 +36,7 @@
     grid-column-end: 4;
 }
 
-.potato8{
+.potato8 {
     background-color:rgb(221, 160, 182);
     grid-row-start: 1;
     grid-row-end: 2;
@@ -44,7 +44,7 @@
     grid-column-end: 4;
 }
 
-.potato10{
+.potato10 {
     background-color:rgb(206, 255, 240);
 }
 
