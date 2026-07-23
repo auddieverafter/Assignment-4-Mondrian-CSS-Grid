@@ -54,6 +54,10 @@
 
 .potato11 {
     background-color:rgb(250, 215, 246);
+    grid-row-start: 1; 
+    grid-row-end: 2;
+    grid-column-start: 3;
+    grid-column-end: 5;
 }
 
 .potato12 {
